@@ -1,4 +1,4 @@
-# Specifies intentionally untracked files to ignore when using Git
+git remote add origin https://github.com/Drdevn/Reader.git# Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
 *~
